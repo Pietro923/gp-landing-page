@@ -83,7 +83,7 @@ export default function Contact() {
           <h2 className="text-4xl lg:text-5xl font-bold mb-4  border-b-2 border-red-500 inline-block">
             Contáctanos
           </h2>
-          <p className="text-xl text-gray-200">
+          <p className="text-xl text-black">
             Estamos aquí para responder tus consultas y brindarte la mejor atención.
           </p>
         </motion.div>
@@ -183,7 +183,7 @@ export default function Contact() {
                 <CardTitle className="text-2xl ">Ubicación</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-200 text-center">Parque Industrial Aut. Circunvalación Km 1294, San Miguel de Tucumán</p>
+                <p className="black-200 text-center">Parque Industrial Aut. Circunvalación Km 1294, San Miguel de Tucumán</p>
               </CardContent>
             </Card>
             <Card className="bg-white/10 backdrop-blur-sm border-0 shadow-lg">
@@ -192,7 +192,7 @@ export default function Contact() {
                 <CardTitle className="text-2xl ">Teléfono</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-200 text-center">+54 9 381 661 8632</p>
+                <p className="black-200 text-center">+54 9 381 661 8632</p>
               </CardContent>
             </Card>
             <Card className="bg-white/10 backdrop-blur-sm border-0 shadow-lg">
@@ -201,7 +201,7 @@ export default function Contact() {
                 <CardTitle className="text-2xl ">Correo</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-200 text-center">recepcion@pueblemaquinarias.com.ar</p>
+                <p className="black-200 text-center">recepcion@pueblemaquinarias.com.ar</p>
               </CardContent>
             </Card>
           </motion.div>
